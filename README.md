@@ -8,6 +8,6 @@ CSS
 HTML
 ![alt tag](http://i.imgur.com/IwJZooZ.png)
 
-HTML
+JavaScript
 ![alt tag](http://i.imgur.com/WPMSJp9.png)
 
